@@ -40,6 +40,8 @@ I considered several possible causes.
   steady at 4.98 volts.
 * Maybe I'm buying crappy micro SD cards? Apparently the board is
   [very picky](http://elinux.org/RPi_SD_cards) about these, so that's my best bet right now.
+* Maybe the SD card really wants to be prepared in
+  [a Linux VM](https://discourse.osmc.tv/t/kernel-panic-vfs-unable-to-mount-root-fs-on-unknown-block-179-2/2098/6#post_7).
 
 As the bad SD card theory now looks likeliest, I [ordered a few](https://www.adafruit.com/products/2767)
 from Adafruit that I hope will work better. How annoying.
